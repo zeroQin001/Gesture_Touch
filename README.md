@@ -27,7 +27,7 @@ This is a sensor module that integrates gesture recognition and touch recognitio
 
 ## Blocks
 
-![image](https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/blocks.png)
+![image](https://github.com/zeroQin001/Gesture_Touch/blob/master/arduinoC/_images/blocks.png)
 
 
 Get a purchase connection: [store](https://www.dfrobot.com.cn/index.php).

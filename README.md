@@ -1,6 +1,6 @@
-# 掌控板蓝牙
+# 手势触摸传感器
 
-MpythonBT(测试)
+Gesture_touch(测试)
 
 <img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
@@ -20,12 +20,10 @@ MpythonBT(测试)
 * [Supported targets](#Supportedtargets)
 
 ## URL
-project URL: ```https://github.com/DFRobot/ext-oled12864```
+project URL: ```https://github.com/zeroQin001/Gesture_Touch```
 
 ## Summary
-Support different drawings in the screen, including point, line, circle, rectangle, triangle,rounded rectangle and some commands.
-Support English characters and character library chips of DFRobot modules.
-IIC: the redraw rate is more than 30 frames per second when redrawed by ESP series controllers
+This is a sensor module that integrates gesture recognition and touch recognition. Its maximum detection distance is 30cm, and the distance is adjustable from 0-30cm. Among them, it can recognize a total of 7 gestures of right, left, backward, forward, down, pull-up and pull-down, and 5 touch signals.
 
 ## Blocks
 
@@ -42,5 +40,6 @@ MIT
 
 MCU                | JavaScript   | Arduino      | MicroPython | Remarks
 ------------------ | :----------: | :----------: | :---------: | -----
-micro:bit          |              |              |             | 
+micro:bit          |              |        √     |             | 
 mpython            |              |        √     |             | 
+arduino uno        |              |        √     |             | 

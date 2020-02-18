@@ -10,7 +10,6 @@
 	"auther": "Grace",
 	"email": "xiaoqin.zeng@dfrobot.com",
 	"license": "MIT",
-	"isTest": false,
 	"isBoard": false,
 	"id": "Gesture",
 	"platform": ["win"],

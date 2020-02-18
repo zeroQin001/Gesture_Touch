@@ -2,7 +2,7 @@
 
 Gesture_touch(测试)
 
-<img src="https://github.com/DFRobot/ext-oled12864/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
+<img src="https://github.com/zeroQin001/Gesture_Touch/blob/master/arduinoC/_images/featured.png" width="450" height="300" align=center>
 
 # 用户库教程
 

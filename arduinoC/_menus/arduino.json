@@ -1,0 +1,42 @@
+{
+	"RX": {
+		"menu": [["2", "2"], ["3", "3"]],
+		"default_GestureInit": "2"
+	},
+	"TX": {
+		"menu":	[["2", "2"], ["3", "3"], ["4", "4"],["5", "5"], ["6", "6"], ["7", "7"],["8", "8"], ["9", "9"], ["10", "10"],["11", "11"], ["12", "12"], ["13", "13"],["A0", "A0"], ["A1", "A1"], ["A2", "A2"],["A3", "A3"], ["A4", "A4"], ["A5", "A5"]],
+		"default_GestureInit": "A2"
+	},
+	"SSR": {
+		"menu":	[["softwareSerial1", "softwareSerial1"], ["softwareSerial2", "softwareSerial2"]],
+		"default_GestureInit": "softwareSerial1"
+	},
+	"SR": {
+		"menu":	[["Serial", "Serial"]],
+		"default_GestureInitSR": "Serial"
+	},
+	"SRX": {
+		"menu": [["0", "0"]],
+		"default_GestureInitSR": "0"
+	},
+	"STX": {
+		"menu":	[ ["1", "1"]],
+		"default_GestureInitSR": "1"
+	},
+	"DIREC": {
+		"menu":	[ ["back", "DFGT_EVT_BACK"],["forward", "DFGT_EVT_FORWARD"],["left", "DFGT_EVT_LEFT"],["right", "DFGT_EVT_RIGHT"],["pullup", "DFGT_EVT_PULLUP"],["pulldown", "DFGT_EVT_PULLDOWN"],["remove", "DFGT_EVT_REMOVE"],["touch1", "DFGT_EVT_TOUCH1"],["touch2", "DFGT_EVT_TOUCH2"],["touch3", "DFGT_EVT_TOUCH3"],["touch4", "DFGT_EVT_TOUCH4"],["touch5", "DFGT_EVT_TOUCH5"]],
+		"default_GestureGetDirec": "back"
+	},
+	"DFGT_FUN": {
+		"menu":	[ ["fun_back", "DFGT_FUN_BACK"],["fun_forward", "DFGT_FUN_FORWARD"],["fun_left", "DFGT_FUN_LEFT"],
+		["fun_right", "DFGT_FUN_RIGHT"],["fun_pullup", "DFGT_FUN_PULLUP"],["fun_pulldown", "DFGT_FUN_PULLDOWN"],
+		["fun_remove", "DFGT_FUN_REMOVE"],["fun_touch1", "DFGT_FUN_TOUCH1"],["fun_touch2", "DFGT_FUN_TOUCH2"],
+		["fun_touch3", "DFGT_FUN_TOUCH3"],["fun_touch4", "DFGT_FUN_TOUCH4"],["fun_touch5", "DFGT_FUN_TOUCH5"],
+		["fun_all","DFGT_FUN_ALL"]],
+		"default_GestureGetDirec": "fun_all"
+	},
+	"ABLE":{
+		"menu":[["enable","enable"],["disable","disable"]],
+		"default_GestureAbleAll":"enable"
+	}
+}

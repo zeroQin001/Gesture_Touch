@@ -1,0 +1,35 @@
+{
+	"name": {
+		"zh-cn": "手势识别带触摸传感器 V1.0",
+		"en": "Gesture&Touch Sensor V1.0"
+	},
+	"description": {
+		"zh-cn": "可识别7种手势，以及5路的触摸信号",
+		"en": "Gesture&Touch Sensor V1.0"
+	},
+	"auther": "Grace",
+	"email": "xiaoqin.zeng@dfrobot.com",
+	"license": "MIT",
+	"isTest": false,
+	"isBoard": false,
+	"id": "Gesture",
+	"platform": ["win"],
+	"asset": {
+		"arduinoC": {
+			"dir": "arduinoC/",
+			"version": "0.0.1",
+			"board": [ "arduino","esp32","microbit"],
+			"main": "main.ts",
+			"files": [
+				"_locales/zh-cn.json",
+				"_menus/esp32.json",
+				"_menus/arduino.json",
+				"_images/icon.svg",
+				"_menus/microbit.json",
+				
+				"libraries/Gesture_Touch/DFRobot_Gesture_Touch.cpp",
+				"libraries/Gesture_Touch/DFRobot_Gesture_Touch.h"
+			]
+		}
+	}
+}

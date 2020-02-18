@@ -1,0 +1,48 @@
+{
+    "GestureTouch.GestureInit|block": "手势传感器 初始化 [SSR] 引脚 RX[RX] TX[TX]V0.1",
+    "GestureTouch.GestureInitSR|block": "手势传感器 初始化 [SR] 引脚 RX[SRX] TX[STX]",
+    "GestureTouch.GestureGetOnceData|block": "手势传感器 一次数据存入结果",
+    "GestureTouch.GestureGetDirec|block": "手势传感器 读取到 [DIREC]？",
+    "GestureTouch.GestureSetDistance|block": "手势传感器 设置距离 [DIS]",
+
+    "GestureTouch.GestureAbleAll|block": "手势传感器 [ABLE] [FUN]",
+    "GestureTouch.GestureSleep|block": "手势传感器 睡眠[SEC]",
+
+    "GestureTouch.ABLE.enable|menu":"使能",
+    "GestureTouch.ABLE.disable|menu":"禁止使能",
+
+    "GestureTouch.SSR.softwareSerial1|menu":"软串口1",
+    "GestureTouch.SSR.softwareSerial2|menu":"软串口2",
+    "GestureTouch.SR.Serial|menu":"硬串口",
+    "GestureTouch.SR.Serial1|menu":"硬串口1",
+    "GestureTouch.SR.Serial2|menu":"硬串口2",
+    "GestureTouch.DIREC.back|menu":"向后",
+    "GestureTouch.DIREC.forward|menu":"向前",
+    "GestureTouch.DIREC.left|menu":"向左",
+    "GestureTouch.DIREC.right|menu":"向右",
+    "GestureTouch.DIREC.pullup|menu":"上拉",
+    "GestureTouch.DIREC.pulldown|menu":"下拉",
+    "GestureTouch.DIREC.remove|menu":"移动",
+    "GestureTouch.DIREC.touch1|menu":"触摸1",
+    "GestureTouch.DIREC.touch2|menu":"触摸2",
+    "GestureTouch.DIREC.touch3|menu":"触摸3",
+    "GestureTouch.DIREC.touch4|menu":"触摸4",
+    "GestureTouch.DIREC.touch5|menu":"触摸5",
+
+    "GestureTouch.DFGT_FUN.fun_back|menu":"向后",
+    "GestureTouch.DFGT_FUN.fun_forward|menu":"向前",
+    "GestureTouch.DFGT_FUN.fun_left|menu":"向左",
+    "GestureTouch.DFGT_FUN.fun_right|menu":"向右",
+    "GestureTouch.DFGT_FUN.fun_pullup|menu":"上拉",
+    "GestureTouch.DFGT_FUN.fun_pulldown|menu":"下拉",
+    "GestureTouch.DFGT_FUN.fun_remove|menu":"移动",
+    "GestureTouch.DFGT_FUN.fun_touch1|menu":"触摸1",
+    "GestureTouch.DFGT_FUN.fun_touch2|menu":"触摸2",
+    "GestureTouch.DFGT_FUN.fun_touch3|menu":"触摸3",
+    "GestureTouch.DFGT_FUN.fun_touch4|menu":"触摸4",
+    "GestureTouch.DFGT_FUN.fun_touch5|menu":"触摸5",
+    "GestureTouch.DFGT_FUN.fun_all|menu":"全部"
+
+
+    
+}
